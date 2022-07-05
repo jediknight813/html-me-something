@@ -1,3 +1,39 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@layer utilities {
+  .button_menu:hover {
+    font-size: 18px;
+  }
+
+  .drop_down_hidden {
+    display: none;
+  }
+
+  .drop_down_shown{
+    z-index: 10;
+    display: inline;
+    margin-top: 168px;
+    width: 220px;
+    position: absolute;
+    height: auto;
+    right: 0px;
+  }
+
+  .click_check_hidden {
+    display: block;
+  }
+
+  .click_check_showen {
+    background-color:white;
+    position: absolute;
+    top: 50px;
+    right: 0px;
+    width: 100vw;
+    opacity: 80%;
+    height: 100vh;
+    z-index: 5;
+  }
+}
