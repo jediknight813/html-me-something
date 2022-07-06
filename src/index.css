@@ -15,7 +15,7 @@
   .drop_down_shown{
     z-index: 10;
     display: inline;
-    margin-top: 168px;
+    margin-top: 163px;
     width: 220px;
     position: absolute;
     height: auto;
@@ -27,7 +27,6 @@
   }
 
   .click_check_showen {
-    background-color:white;
     position: absolute;
     top: 50px;
     right: 0px;
@@ -35,5 +34,12 @@
     opacity: 80%;
     height: 100vh;
     z-index: 5;
+  }
+
+  .centered_text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
   }
 }
