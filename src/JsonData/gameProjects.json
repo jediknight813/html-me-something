@@ -1,0 +1,40 @@
+{
+    "games": [
+
+        {
+            "title": "spirit-mage",
+            "website_link": "https://the-last-samurai.itch.io/spirit-mage",
+            "text": "this was a game i made for the first game jam i participated in and the first time i used the godot engine.",
+            "images": [
+                "https://img.itch.zone/aW1nLzQyMjQ2NzAuZ2lm/315x250%23c/Ksv%2FNj.gif",
+                "https://img.itch.zone/aW1hZ2UvNzM0NDkzLzQwODc1OTgucG5n/original/1lm%2Bl9.png",
+                "https://img.itch.zone/aW1hZ2UvNzM0NDkzLzQwOTMyMzUucG5n/original/Gnwjpk.png",
+                "https://img.itch.zone/aW1hZ2UvNzM0NDkzLzQwOTMyMzgucG5n/original/cdJuyj.png"
+            ]
+        },
+
+
+        {
+            "title": "Alpha Squadron",
+            "website_link": "https://the-last-samurai.itch.io/alpha-squadron",
+            "text": "it's a top down shooter game, there are upgrades you can get for your ship while surviving waves of enemies.",
+            "images": [
+                "https://img.itch.zone/aW1nLzQyNzAzNzQuZ2lm/315x250%23c/cHfiKQ.gif",
+                "https://img.itch.zone/aW1hZ2UvNzYzMzgwLzQyNzA1NTIuZ2lm/original/axpPs3.gif"
+            ]
+        },
+
+
+        {
+            "title": "Dawn",
+            "website_link": "https://the-last-samurai.itch.io/dawn",
+            "text": "this was a fun project, i had to optimize for hundreds of enemies and make systems for weapons, enemies and upgrades.",
+            "images": [
+                "https://img.itch.zone/aW1nLzkyMzkyNjcuZ2lm/315x250%23c/Lzzuaw.gif",
+                "https://img.itch.zone/aW1hZ2UvMTU3ODk0OS85MjIyODc5LnBuZw==/original/KsfrdY.png",
+                "https://img.itch.zone/aW1hZ2UvMTU3ODk0OS85MjIyODgyLnBuZw==/original/AC4lwG.png"
+            ]
+        }
+
+    ]
+}

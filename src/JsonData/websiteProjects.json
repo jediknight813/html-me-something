@@ -40,11 +40,37 @@
             "title": "TNW",
             "source_code": "https://github.com/jediknight813/tnw-clone",
             "website_link": "https://jediknight813.github.io/tnw-clone/",
-            "text": "i had to copy the TNW website and make it as close as possible to the real website and have it able to resize to fit phone screens and tablets.",
+            "text": "i had to copy the TNW website and make it as close as possible to the real website and have it be able to resize to fit phone screens and tablets.",
             "images": [
                 "https://user-images.githubusercontent.com/17935336/149383463-9e95a29d-684f-4086-9522-7579ad2e1ef1.png",
                 "https://user-images.githubusercontent.com/17935336/149383478-5342e846-c75b-4bb5-8887-83f6e3fc04a9.png",
                 "https://user-images.githubusercontent.com/17935336/149383513-b0b12b70-f23f-44d3-ad7d-5f487641a361.png"
+            ]
+        },
+
+        {
+            "title": "Scratch",
+            "source_code": "https://github.com/jediknight813/scratch-clone",
+            "website_link": "https://jediknight813.github.io/scratch-clone/",
+            "text": "this was another fun css challenge i did, copy the scratch website front page.",
+            "images": [
+                "https://user-images.githubusercontent.com/17935336/150576278-845706f3-fa03-4842-a09b-d4b93ca96049.png",
+                "https://user-images.githubusercontent.com/17935336/150576691-f801aa00-4aa4-4e18-a7d6-eeddb215812f.png",
+                "https://user-images.githubusercontent.com/17935336/150577618-150387af-9cbc-45ee-8c22-02b9405fca46.png",
+                "https://user-images.githubusercontent.com/17935336/150577642-f67bd2c5-96d8-42d5-a882-5c4f71b67058.png"
+            ]
+        },
+
+        {
+            "title": "launchcode-quiz",
+            "source_code": "https://github.com/jediknight813/launchcode-quiz",
+            "website_link": "https://charming-babka-175191.netlify.app/",
+            "text": "this was a simple quiz website i made for a launchcode assignment, i used this project to learn more about api calls and learned how to use tailwind css.",
+            "images": [
+                "https://user-images.githubusercontent.com/17935336/170115759-ff78b309-0bae-4da2-b164-f24fddd1919a.png",
+                "https://user-images.githubusercontent.com/17935336/169112256-e6cc74fa-0793-4fd1-ab85-50c8a60eff18.png",
+                "https://user-images.githubusercontent.com/17935336/170115799-14af2752-18da-4234-9290-69486d71a10a.png",
+                "https://user-images.githubusercontent.com/17935336/169114765-27496891-b7c6-4cd1-bd3c-ae2de4f4e19c.png"
             ]
         },
 

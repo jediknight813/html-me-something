@@ -11,7 +11,7 @@ import Footer from './components/Footer.js';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <div className="flex flex-col w-full h-auto bg-slate-600 min-h-screen">
+    <div className="flex flex-col w-full overflow-x-hidden h-auto bg-slate-600 min-h-screen">
       <Header />
       <Content />
       <Footer />
