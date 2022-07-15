@@ -10,7 +10,8 @@ works on desktop, tablets and mobiles phones.
 
 <img width="1667" alt="Screen Shot 2022-07-15 at 1 39 37 PM" src="https://user-images.githubusercontent.com/17935336/179290471-e1acb3d4-2a6d-4d86-86b9-9dfe4e77dcbb.png">
 
-<img width="1659" height="1400" alt="Screen Shot 2022-07-15 at 1 39 50 PM" src="https://user-images.githubusercontent.com/17935336/179290486-43eff0ce-dc04-4627-842b-9abf291c9b41.png">
+<img width="1661" alt="Screen Shot 2022-07-15 at 1 45 47 PM" src="https://user-images.githubusercontent.com/17935336/179290954-a15c543d-1b55-4885-9ab5-94bfc33bf52f.png">
+
 
 <img width="1663" alt="Screen Shot 2022-07-15 at 1 40 47 PM" src="https://user-images.githubusercontent.com/17935336/179290501-b03e17de-09bd-42e1-ae06-17a0f40c29eb.png">
 <img width="1663" alt="Screen Shot 2022-07-15 at 1 41 03 PM" src="https://user-images.githubusercontent.com/17935336/179290509-fd330b40-a117-473c-98a0-31e39949d517.png">
