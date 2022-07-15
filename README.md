@@ -2,6 +2,8 @@
 
 created for a launchcode assignment.
 
+a link to the website: https://stirring-bonbon-3af019.netlify.app/
+
 works on desktop, tablets and mobiles phones.
 
 <img width="1665" alt="Screen Shot 2022-07-15 at 1 38 38 PM" src="https://user-images.githubusercontent.com/17935336/179290401-b3795bb6-c3c7-4fd9-b4cf-b368f5dfc710.png">
