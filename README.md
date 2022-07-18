@@ -4,7 +4,7 @@ created for a launchcode assignment.
 
 a link to the website: https://stirring-bonbon-3af019.netlify.app/
 
-works on desktop, tablets and mobiles phones.
+works on desktop, tablets and mobile phones.
 
 <img width="1665" alt="Screen Shot 2022-07-15 at 1 38 38 PM" src="https://user-images.githubusercontent.com/17935336/179290401-b3795bb6-c3c7-4fd9-b4cf-b368f5dfc710.png">
 <img width="1659" alt="Screen Shot 2022-07-15 at 1 38 56 PM" src="https://user-images.githubusercontent.com/17935336/179290421-27d43318-f6cc-4131-bbef-bf65230ef7a5.png">
