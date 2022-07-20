@@ -6,7 +6,7 @@
             "title": "Tic-Tac-Toe",
             "source_code": "https://github.com/jediknight813/Tic-Tac-Toe",
             "website_link": "https://jediknight813.github.io/Tic-Tac-Toe/",
-            "text": "this was one of the first projects i worked on on the odin project, just a simple Tic-Tac-Toe website.",
+            "text": "This was one of the first projects I worked on on the odin project, just a simple Tic-Tac-Toe website.",
             "images": [
                 "https://user-images.githubusercontent.com/17935336/124183430-d4269e80-da7d-11eb-9018-0f568b56fb0d.png"
             ]
@@ -16,7 +16,7 @@
             "title": "battleship",
             "source_code": "https://github.com/jediknight813/Battleship",
             "website_link": "https://jediknight813.github.io/Battleship/",
-            "text": "this website was an interesting challenge to make, after you place of your ships you have to try and win against the computer.",
+            "text": "This website was an interesting challenge to make, after you place your ships you have to try and win against the computer.",
             "images": [
                 "https://user-images.githubusercontent.com/17935336/133108895-2fca27c1-7e06-43d1-8bbe-dba1f05d2ea3.png"
             ]
@@ -27,7 +27,7 @@
             "title": "Videntium",
             "source_code": "https://github.com/jediknight813/videntium",
             "website_link": "https://jediknight813.github.io/videntium/",
-            "text": "this was my first full-stack website, i used firebase for the backend and react for the frontend, the project was to try and copy a website, so i tried to copy pinterest.",
+            "text": "This was my first full-stack website, I used firebase for the backend and react for the frontend. The project was to try and copy a website, so I tried to copy pinterest.",
             "images": [
                 "https://user-images.githubusercontent.com/17935336/146080707-d08b9867-fb74-4c73-a9db-9d80ed77d19a.png",
                 "https://user-images.githubusercontent.com/17935336/146080753-b02ef1a2-139b-457b-b9e1-3c08dccb46a2.png",
@@ -40,7 +40,7 @@
             "title": "TNW",
             "source_code": "https://github.com/jediknight813/tnw-clone",
             "website_link": "https://jediknight813.github.io/tnw-clone/",
-            "text": "i had to copy the TNW website and make it as close as possible to the real website and have it be able to resize to fit phone screens and tablets.",
+            "text": "I had to copy the TNW website and make it as close as possible to the real website and have it be able to resize to fit phone screens and tablets.",
             "images": [
                 "https://user-images.githubusercontent.com/17935336/149383463-9e95a29d-684f-4086-9522-7579ad2e1ef1.png",
                 "https://user-images.githubusercontent.com/17935336/149383478-5342e846-c75b-4bb5-8887-83f6e3fc04a9.png",
@@ -52,7 +52,7 @@
             "title": "Scratch",
             "source_code": "https://github.com/jediknight813/scratch-clone",
             "website_link": "https://jediknight813.github.io/scratch-clone/",
-            "text": "this was another fun css challenge i did, copy the scratch website front page.",
+            "text": "This was another fun css challenge I did, copy the scratch website front page.",
             "images": [
                 "https://user-images.githubusercontent.com/17935336/150576278-845706f3-fa03-4842-a09b-d4b93ca96049.png",
                 "https://user-images.githubusercontent.com/17935336/150576691-f801aa00-4aa4-4e18-a7d6-eeddb215812f.png",
@@ -65,7 +65,7 @@
             "title": "launchcode-quiz",
             "source_code": "https://github.com/jediknight813/launchcode-quiz",
             "website_link": "https://charming-babka-175191.netlify.app/",
-            "text": "this was a simple quiz website i made for a launchcode assignment, i used this project to learn more about api calls and learned how to use tailwind css.",
+            "text": "This was a simple quiz website I made for a launchcode assignment. I used this project to learn more about api calls and learned how to use tailwind css.",
             "images": [
                 "https://user-images.githubusercontent.com/17935336/170115759-ff78b309-0bae-4da2-b164-f24fddd1919a.png",
                 "https://user-images.githubusercontent.com/17935336/169112256-e6cc74fa-0793-4fd1-ab85-50c8a60eff18.png",
@@ -79,7 +79,7 @@
             "title": "ultima-lectio",
             "source_code": "https://github.com/jediknight813/ultima-lectio",
             "website_link": "https://luxury-lebkuchen-233be4.netlify.app/",
-            "text": "ultima-lectio was my latest full-stack webiste and the most challenging to make so far, it was the final project for the odin project, it's a MERN stack facebook clone.",
+            "text": "Ultima-Lectio was my latest full-stack website and the most challenging to make so far. It was the final project for the Odin project, it's a MERN stack facebook clone.",
             "images": [
                 "https://user-images.githubusercontent.com/17935336/167917058-42040008-b4b0-4de6-b3a2-9f8d5690b556.png",
                 "https://user-images.githubusercontent.com/17935336/167917162-a7d925e3-6cca-4628-8bb9-c147b03a2796.png",
